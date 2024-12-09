@@ -1,0 +1,194 @@
+[
+  {
+    "product_id": "p002",
+    "product_title": "Gaming Laptop",
+    "product_image": "https://i.ibb.co.com/pxhXSzX/laptop3.jpg",
+    "category": "laptops",
+    "price": 1499.99,
+    "description": "High-performance gaming laptop with a dedicated graphics card.",
+    "specification": [
+      "Intel Core i9",
+      "32GB RAM",
+      "1TB SSD",
+      "NVIDIA GeForce RTX 3060"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "p007",
+    "product_title": "Smartphone X1",
+    "product_image": "https://i.ibb.co/drGd6MM/phone1.png",
+    "category": "phones",
+    "price": 699.99,
+    "description": "Latest smartphone with a stunning camera and long battery life.",
+    "specification": [
+      "6.7-inch AMOLED display",
+      "128GB storage",
+      "Triple camera system",
+      "4000mAh battery"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "p003",
+    "product_title": "Business Laptop",
+    "product_image": "https://i.ibb.co/F08yJ9S/laptop2.jpg",
+    "category": "laptops",
+    "price": 749.99,
+    "description": "Reliable business laptop designed for productivity on the go.",
+    "specification": [
+      "Intel Core i5",
+      "8GB RAM",
+      "256GB SSD",
+      "14-inch display"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "p010",
+    "product_title": "Bluetooth Headphones",
+    "product_image": "https://i.ibb.co/ZWMvfMB/headphone2.jpg",
+    "category": "headphones",
+    "price": 129.99,
+    "description": "Wireless headphones with noise cancellation and superior sound quality.",
+    "specification": [
+      "Active noise cancellation",
+      "20-hour battery life",
+      "Bluetooth 5.0",
+      "Comfortable over-ear design"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "p012",
+    "product_title": "Smart Watch Pro",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/smart-watch/kieslect/ks-pro/ks-pro-black-01-500x500.webp",
+    "category": "smart-watches",
+    "price": 249.99,
+    "description": "Smart watch with fitness tracking and customizable watch faces.",
+    "specification": [
+      "Heart rate monitor",
+      "GPS tracking",
+      "Water resistant",
+      "Notifications for calls and messages"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "p006",
+    "product_title": "Chromebook",
+    "product_image": "https://i.ibb.co/FWsx4VN/laptop1.jpg",
+    "category": "laptops",
+    "price": 299.99,
+    "description": "Affordable Chromebook for browsing and basic tasks.",
+    "specification": [
+      "Intel Celeron",
+      "4GB RAM",
+      "32GB eMMC storage",
+      "11.6-inch display"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "p004",
+    "product_title": "2-in-1 Convertible Laptop",
+    "product_image": "https://i.ibb.co/S021dP7/lap4.jpg",
+    "category": "laptops",
+    "price": 899.99,
+    "description": "Versatile 2-in-1 laptop with touch screen and detachable keyboard.",
+    "specification": [
+      "Intel Core i5",
+      "8GB RAM",
+      "512GB SSD",
+      "Touchscreen display"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "p005",
+    "product_title": "Ultra-Thin Laptop",
+    "product_image": "https://i.ibb.co.com/BG9q9ZF/laptop5.jpg",
+    "category": "laptops",
+    "price": 999.99,
+    "description": "Sleek and lightweight laptop perfect for travel.",
+    "specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "1TB SSD",
+      "13-inch Retina display"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "p009",
+    "product_title": "Smartphone Mini",
+    "product_image": "https://i.ibb.co/ZzT3SVZ/phone2.jpg",
+    "category": "phones",
+    "price": 399.99,
+    "description": "Compact smartphone with essential features and a great camera.",
+    "specification": [
+      "5.4-inch display",
+      "64GB storage",
+      "Single camera system",
+      "3000mAh battery"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "p001",
+    "product_title": "High-Performance Laptop",
+    "product_image": "https://i.ibb.co/0n16PvZ/lap6-1.png",
+    "category": "laptops",
+    "price": 899.99,
+    "description": "A powerful laptop with 16GB RAM and 512GB SSD for seamless multitasking.",
+    "specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD",
+      "15.6-inch Full HD display"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "p008",
+    "product_title": "Smartphone Z Pro",
+    "product_image": "https://i.ibb.co/BwzkYp5/phone3.jpg",
+    "category": "phones",
+    "price": 799.99,
+    "description": "A flagship smartphone with cutting-edge features and high performance.",
+    "specification": [
+      "6.5-inch OLED display",
+      "256GB storage",
+      "Dual camera system",
+      "4500mAh battery"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "p011",
+    "product_title": "Wireless Gaming Headset",
+    "product_image": "https://i.ibb.co/Hq4vTZD/headphone1.webp",
+    "category": "headphones",
+    "price": 199.99,
+    "description": "High-quality wireless gaming headset with surround sound.",
+    "specification": [
+      "Surround sound support",
+      "Noise-canceling microphone",
+      "40-hour battery life",
+      "Adjustable headband"
+    ],
+    "availability": true,
+    "rating": 4.6
+  }
+]
