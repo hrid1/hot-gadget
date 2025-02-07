@@ -9,6 +9,8 @@
 ## Project Overview
 Gadget Heaven is an e-commerce app for browsing, adding to cart or wishlist, and purchasing gadgets.
 
+![Gadget Haven](https://raw.githubusercontent.com/hrid1/hot-gadget/refs/heads/main/Gadget%20Haven.png)
+
 ## React Fundamentals Used
 - `useState` and `useEffect` for state management and data fetching
 - `useLoaderData` for pre-loading data on routes
